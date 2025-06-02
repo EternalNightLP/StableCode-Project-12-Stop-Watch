@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #111;
+  color: #fff;
+}
+
+.container {
+  margin-top: 100px;
+}
+
+#clock, #stopwatch {
+  font-size: 3rem;
+  margin: 20px 0;
+}
+
+.buttons button {
+  font-size: 1rem;
+  margin: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
